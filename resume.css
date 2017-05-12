@@ -1,24 +1,22 @@
 h1 {font-weight: bold;
+    size: ;
+    padding:
 }
 
 h2 {font-weight: bold;
+    size: ;
+    color: darkgrey;
 }
 
 h3 {font-weight: bold;
+    size:;
+    color: blue ;
 }
 
-body {
-    background-color: lightgray;
-    opacity: 10}
+hr {padding:20%;
+    }
+    
+div, p, h2 { padding: 10%;
 }
-
-p.small {
-    line-height: 20%;
-}
-
-p.big {
-    line-height: 60%;
-}
-
 
 
