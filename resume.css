@@ -1,7 +1,7 @@
 
 
 body {
-    background-color: lightblue;
+    background-color: lightgray;
 }
 
 p.small {
@@ -26,6 +26,4 @@ p {
     padding-left: 2cm;
 }
 
-div {
-    opacity: 0.5;
-}
+
