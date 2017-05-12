@@ -1,29 +1,24 @@
+h1 {font-weight: bold;
+}
 
+h2 {font-weight: bold;
+}
+
+h3 {font-weight: bold;
+}
 
 body {
     background-color: lightgray;
+    opacity: 10%}
 }
 
 p.small {
-    line-height: 90%;
+    line-height: 20%;
 }
 
 p.big {
-    line-height: 200%;
+    line-height: 60%;
 }
 
-hr { 
-    display: block;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
-    margin-left: auto;
-    margin-right: auto;
-    border-style: inset;
-    border-width: 1px;
-}
-
-p {
-    padding-left: 2cm;
-}
 
 
