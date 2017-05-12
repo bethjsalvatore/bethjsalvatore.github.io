@@ -1,3 +1,17 @@
+
+
+body {
+    background-color: lightblue;
+}
+
+p.small {
+    line-height: 90%;
+}
+
+p.big {
+    line-height: 200%;
+}
+
 hr { 
     display: block;
     margin-top: 0.5em;
@@ -6,4 +20,12 @@ hr {
     margin-right: auto;
     border-style: inset;
     border-width: 1px;
+}
+
+p {
+    padding-left: 2cm;
+}
+
+div {
+    opacity: 0.5;
 }
