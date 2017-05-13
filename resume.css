@@ -1,19 +1,19 @@
-h1 {font-weight: bold;
+body h1 {font-weight: bold;
     size: ;
     padding:
 }
 
-h2 {font-weight: bold;
+body h2 {font-weight: bold;
     size: ;
     color: darkgrey;
 }
 
-h3 {font-weight: bold;
+body h3 {font-weight: bold;
     size:;
     color: blue ;
 }
 
-hr {padding:20%;
+body hr {padding:20%;
     }
     
 div, p, h2 { padding: 10%;
