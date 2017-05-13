@@ -1,5 +1,5 @@
 
-body {background: lightgray;
+body {background: antiquewhite;
 }
 
 h1 {font-weight: bold;
@@ -8,7 +8,8 @@ h1 {font-weight: bold;
     padding: 12 px;
 }
 
-body p {size: 12 px;
+body p {font: helvetica;
+    size: 11 px;
     padding-bottom: 2 px;
 }
 
@@ -28,13 +29,8 @@ hr {padding: 2 px;
     padding: 2 px;
     color: maroon;
     }
-    
-body p {font: helvetica;
-        size: 11 px;
-        padding: 2 px;
-}
 
-div, p, h2 { padding: 2 px;
-}
+
+
 
 
