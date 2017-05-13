@@ -2,6 +2,10 @@
 body {background: antiquewhite;
 }
 
+div main {padding-bottom: 2 px;
+    padding-bottom: 2 px;
+}
+
 h1 {font-weight: bold;
     color: maroon;
     size: 36 px ;
