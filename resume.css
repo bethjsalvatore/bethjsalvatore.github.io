@@ -1,3 +1,4 @@
+
 h1 {font-weight: bold;
     color: maroon;
     size: 36 px ;
@@ -7,7 +8,7 @@ h1 {font-weight: bold;
 body h2 {font-weight: bold;
     size: 24 px;
     color: darkgrey;
-    padding: 3 px;
+    padding-bottom: 20 px;
 }
 
 body h3 {font-weight: bold;
