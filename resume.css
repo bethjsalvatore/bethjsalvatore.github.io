@@ -8,6 +8,10 @@ h1 {font-weight: bold;
     padding: 12 px;
 }
 
+body p {size: 12 px;
+    padding-bottom: 2 px;
+}
+
 body h2 {font-weight: bold;
     size: 24 px;
     color: dimgrey;
