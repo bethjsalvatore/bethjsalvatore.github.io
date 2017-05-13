@@ -16,9 +16,15 @@ body h3 {font-weight: bold;
 }
 
 body hr {padding: 2 px;
-    size: 11 px;
+    padding: 2 px;
+    color: red;
     }
     
+body p {font: helvetica;
+        size: 11 px;
+        padding: 2 px;
+}
+
 div, p, h2 { padding: 2 px;
 }
 
