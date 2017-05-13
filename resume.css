@@ -2,7 +2,11 @@
 body {background: antiquewhite;
 }
 
-div main {padding-bottom: 2 px;
+div main {padding-top: 2 px;
+    padding-bottom: 2 px;
+}
+
+div nav {padding-top: 2 px;
     padding-bottom: 2 px;
 }
 
@@ -28,9 +32,6 @@ body h3 {font-weight: bold;
     size:24 px;
     color: blue;
     padding: 3 px;
-}
-
-nav ul li {padding-bottom: 2 px;
 }
 
 hr {padding-bottom: 2 px;
