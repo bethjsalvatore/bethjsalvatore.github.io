@@ -5,18 +5,19 @@ body {background: antiquewhite;
 h1 {font-weight: bold;
     color: maroon;
     size: 36 px ;
-    padding: 12 px;
+    padding-bottom: 12 px;
 }
 
 body p {font: helvetica;
     size: 11 px;
+    padding-top: 2 px;
     padding-bottom: 2 px;
 }
 
 body h2 {font-weight: bold;
     size: 24 px;
     color: dimgrey;
-    padding-bottom: 20 px;
+    padding-bottom: 10 px;
 }
 
 body h3 {font-weight: bold;
@@ -28,7 +29,7 @@ body h3 {font-weight: bold;
 nav ul li {padding-bottom: 2 px;
 }
 
-hr {padding: 2 px;
+hr {padding-bottom: 2 px;
     color: maroon;
     }
 
