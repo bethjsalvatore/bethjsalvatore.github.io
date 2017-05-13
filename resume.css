@@ -1,23 +1,25 @@
 body h1 {font-weight: bold;
-    size: ;
-    padding:
+    size: 36 px ;
+    padding: 12 px;
 }
 
 body h2 {font-weight: bold;
-    size: ;
+    size: 24 px;
     color: darkgrey;
+    padding: 3 px;
 }
 
 body h3 {font-weight: bold;
-    size:;
-    color: blue ;
+    size:24 px;
+    color: blue;
+    padding: 3 px;
 }
 
-body hr {padding:20%;
-    size: 3;
+body hr {padding: 2 px;
+    size: 11 px;
     }
     
-div, p, h2 { padding: 10%;
+div, p, h2 { padding: 2 px;
 }
 
 
